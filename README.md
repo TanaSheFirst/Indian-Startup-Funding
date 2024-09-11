@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-Welcome to the Exploratory Data Analysis project focused on **Indian Start-up Funding from 2018 to 2021**. This project is part of the **Data Analytics Professional & AI Program**. As data continues to grow exponentially, this analysis will help uncover insights into funding trends, investor behavior, and the start-up ecosystem in India.
+Welcome to my **Exploratory Data Analysis project focused on Indian Start-up Funding** from 2018 to 2021. This project is part of my journey in the Data Analytics Professional & AI Program. As a data analyst, I am passionate about uncovering insights from data, and in this project, I aim to investigate the funding trends in the Indian start-up ecosystem.
 
-Your team is considering venturing into the Indian start-up ecosystem, and as the data expert, your task is to analyze the funding data and recommend the best course of action based on your findings.
+With the rapid increase in data, organizations worldwide rely on data-driven decisions to stay competitive. In this project, I’ll analyze start-up funding data over four years (2018-2021) to explore patterns, key investors, and sectors that attracted the most funding. My goal is to provide strategic insights and recommendations that could guide my team’s entry into the Indian start-up ecosystem.
 
 ## Table of Contents
 
