@@ -37,33 +37,22 @@ This project uses three data sources, covering the years 2018 to 2021:
 
 ### 1. 2020 & 2021 Data (SQL Database)
 
-The data for 2020 and 2021 is stored in a **SQL Server** database. You can connect remotely using the credentials provided:
-
-- **Server Name:** `dap-projects-database.database.windows.net`
-- **Login:** `LP1_learner`
-- **Password:** `Hyp0th3s!$T3$t!ng`
-- **Database Name:** `dapDB`
-- **Tables:**
-  - `dbo.LP1_startup_funding2020`
-  - `dbo.LP1_startup_funding2021`
-
-> **Note:** You have read-only access. Connect to the database using `pyodbc` or `SQLAlchemy`.
+The data for 2020 and 2021 is stored in a **SQL Server** database. 
 
 ### 2. 2019 Data (OneDrive)
 
 The data for 2019 is stored in a CSV file:
-- **File Name:** `startup_funding2019.csv`
+
 
 ### 3. 2018 Data (GitHub)
 
-The 2018 dataset is available in this repository:
-- **File Name:** `startup_funding2018.csv`
+The 2018 dataset is available in a github repository:
+
 
 ## Installation and Setup
 
 ### Prerequisites
 
-Ensure you have the following installed:
 - Python (>= 3.x)
 - Libraries: pandas, numpy, matplotlib, seaborn, pyodbc, SQLAlchemy
 - Jupyter Notebook or any IDE for `.ipynb` files
@@ -90,7 +79,7 @@ Ensure you have the following installed:
 
 ## Skills Developed
 
-By completing this project, you'll build the following skills:
+By completing this project, I have built the following skills:
 
 - Asking **SMART** and effective questions
 - Structuring and cleaning data
@@ -132,13 +121,7 @@ Visualizations include:
 
 ## Contributing
 
-Contributions are welcome! Feel free to fork this repository and submit pull requests. Here's how to contribute:
-
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature/your-feature`).
-3. Commit your changes (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a pull request.
+Contributions are welcome! Feel free to fork this repository and submit pull requests. 
 
 ## License
 
